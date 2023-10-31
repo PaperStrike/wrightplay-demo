@@ -1,0 +1,18 @@
+# Mac and Windows
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+
+# Node
+node_modules/
+
+# Generated
+.nyc_output/
+coverage/
+build/
+dist/
+*.tsbuildinfo
